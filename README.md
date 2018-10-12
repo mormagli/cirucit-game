@@ -10,13 +10,12 @@ Circuit is a game for 2-6 players played with 7 cards and 1-3 coins*
 
 Objective:
 
-	Be the first player to complete a loop of your own color. In other words, arrange the cards such 			that at least four curves of your color meet each other, leaving no unmatched endpoint.
+	Be the first player to complete a loop of your own color. In other words, arrange the cards such that at least four curves of your color meet each other, leaving no unmatched endpoint.
 
 
 Setup:
 
-	Each player picks a color, cards 1-6 are shuffled, and starting player is determined
-	(Both player color and starting player may be randomized by shuffling the deck and dealing out 		cards to each player, in which case you should reshuffle before you begin.)
+	Each player picks a color, cards 1-6 are shuffled, and starting player is determined (Both player color and starting player may be randomized by shuffling the deck and dealing out cards to each player, in which case you should reshuffle before you begin.)
 	Place the ‘7’ card face-up on the table, and place the coins on it:
 		for 2 players, place 1 coin;
 		for 3-4 players, place 2 coins;
